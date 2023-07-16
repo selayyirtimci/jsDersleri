@@ -8,4 +8,6 @@ console.log("test yazısı")
 
 console.log("test yazısı 2")
 
+console.log("ikinci branch te değişiklikler yapıldı")
+
 
